@@ -1,2 +1,3 @@
-# micro-social-platform-ijsx
-A social networking platform for modern development workflows
+# Micro Social Platform Ijsx
+
+A social networking platform for modern development workflows.
